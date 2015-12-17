@@ -15,7 +15,7 @@ mvn tomcat:run
 
 To send request to the app, you may use the curl command in your terminal or your favorite REST client.
 
-For example when sending POST request in http://localhost:8080/drools-sample/courseadvisor/suggest-course/
+For example when sending POST request in [http://localhost:8080/drools-sample/courseadvisor/suggest-course/]()
 with JSON body: 
 ```
 [
